@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C)](https://pytorch.org/)
 [![Model](https://img.shields.io/badge/Model-Qwen--14B-yellow)](https://huggingface.co/Qwen)
 
-> **Dynamic Safety Policy Switching for LLMs without Fine-tuning.** > **파인튜닝 없이, 잠재 공간 제어(Steering)만으로 LLM의 안전 정책을 실시간으로 조절하는 연구 프로젝트입니다.**
+> **Dynamic Safety Policy Switching for LLMs without Fine-tuning.** > **파인튜닝 없이, 잠재 공간 제어(Steering)만으로 LLM의 안전 정책을 실시간으로 조절하는 개인 프로젝트입니다.**
 
 <br>
 
