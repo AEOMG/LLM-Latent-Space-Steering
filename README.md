@@ -32,7 +32,7 @@ We utilized **Representation Engineering (RepE)** techniques:
 ### 4. How to Run
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_ID/LLM-Latent-Space-Steering.git](https://github.com/YOUR_ID/LLM-Latent-Space-Steering.git)
+git clone https://github.com/AEOMG/LLM-Latent-Space-Steering
 cd LLM-Latent-Space-Steering
 
 # 2. Install dependencies
@@ -40,9 +40,6 @@ pip install -r requirements.txt
 
 # 3. Run Steering Demo
 # --coeff: Steering coefficient (negative for game mode)
-# --layer: Target layer index
-python steer_main.py --model "Qwen/Qwen-14B-Chat" --coeff -40 --layer 20
-```
 # --layer: Target layer index
 python steer_main.py --model "Qwen/Qwen-14B-Chat" --coeff -40 --layer 20
 ```
